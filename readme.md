@@ -9,7 +9,7 @@
 | Task                                                                                                                                           | Done |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
 | [Two Sum](https://leetcode.com/problems/two-sum)                                                                                               | [X]  |
-| [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character) | [ ]  |
+| [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character) | [X]  |
 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter)                                                                       | [ ]  |
 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows)                                                                                 | [ ]  |
 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)                                                             | [ ]  |
